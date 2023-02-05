@@ -29,4 +29,5 @@ jobs:
         fetch: false
         message: update-${{ github.run_number }}
         add: "*.txt --force"
+        push: origin main --force
         tag_push: '--force'
