@@ -29,3 +29,4 @@ jobs:
         fetch: false
         message: update-${{ github.run_number }}
         add: "*.txt --force"
+        tag_push: '--force'
