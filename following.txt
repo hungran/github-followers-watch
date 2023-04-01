@@ -7,8 +7,10 @@ bgrant0607
 brandonjbjelland
 bryantbiggs
 clux
+crenshaw-dev
 csantanapr
 dungdm93
+fornwall
 imjasonh
 jkroepke
 kube-rs
@@ -17,9 +19,13 @@ luhring
 mattyait
 morgante
 n3wt0n
+nrc
 orhun
+powersj
 rothgar
 sidpalas
 stakater
+sylvestre
 tnx-journey-to-cloud
 tuananh
+wagoodman
