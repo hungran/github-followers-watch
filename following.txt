@@ -28,6 +28,7 @@ khanhtc1202
 khos2ow
 kube-rs
 linagora
+loft-sh
 luhring
 maaslalani
 magreenbaum
@@ -42,13 +43,14 @@ nrc
 orhun
 pipe-cd
 powersj
-qmau94
+qmauvnt
 rothgar
 salaboy
 sidpalas
 stakater
 sylvestre
 tcnghia
+terraform-google-modules
 tnx-journey-to-cloud
 tuananh
 vmware-tanzu
