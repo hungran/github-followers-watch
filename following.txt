@@ -6,10 +6,12 @@ amenocal
 antonbabenko
 appleboy
 argoproj
+ashleynguci
 barryib
 bgrant0607
 brandonjbjelland
 bryantbiggs
+bwplotka
 caarlos0
 clux
 crenshaw-dev
@@ -38,6 +40,7 @@ mgrachev
 morgante
 n3wt0n
 nckturner
+nghialv
 nikolay
 nrc
 orhun
