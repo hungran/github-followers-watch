@@ -23,9 +23,11 @@ fornwall
 go-skynet
 google
 hoodie
+im2nguyen
 imjasonh
 jkroepke
 jon-walton
+kerashanog
 khanhtc1202
 khos2ow
 kube-rs
@@ -42,7 +44,9 @@ n3wt0n
 nckturner
 nghialv
 nikolay
+nitrocode
 nrc
+openedx
 orhun
 pipe-cd
 powersj
