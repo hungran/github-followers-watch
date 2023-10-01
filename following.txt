@@ -22,9 +22,11 @@ eladb
 fornwall
 go-skynet
 google
+harness
 hoodie
 im2nguyen
 imjasonh
+jaxxstorm
 jkroepke
 jon-walton
 kerashanog
@@ -55,6 +57,7 @@ rothgar
 salaboy
 sidpalas
 stakater
+stedolan
 sylvestre
 tcnghia
 terraform-google-modules
