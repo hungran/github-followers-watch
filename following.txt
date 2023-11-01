@@ -1,3 +1,4 @@
+EthanHeilman
 Kong
 Madh93
 SrRyan
@@ -16,6 +17,7 @@ caarlos0
 clux
 crenshaw-dev
 csantanapr
+cube2222
 ductnn
 dungdm93
 eladb
@@ -56,6 +58,7 @@ qmauvnt
 rothgar
 salaboy
 sidpalas
+slsa-framework
 stakater
 stedolan
 sylvestre
