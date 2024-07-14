@@ -38,6 +38,7 @@ imjasonh
 jaxxstorm
 jkroepke
 jon-walton
+kazhuravlev
 kerashanog
 kflynn
 khanhtc1202
@@ -54,6 +55,7 @@ mattmoor
 mattyait
 mgrachev
 morgante
+myoung34
 n3wt0n
 nckturner
 nghialv
@@ -61,6 +63,7 @@ nikolay
 nitrocode
 nrc
 openedx
+openobserve
 orhun
 pipe-cd
 powersj
