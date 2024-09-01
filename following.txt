@@ -45,6 +45,7 @@ kflynn
 khanhtc1202
 khos2ow
 kube-rs
+kubernetes
 lambdanis
 linagora
 lizrice
