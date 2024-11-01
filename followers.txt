@@ -2,7 +2,6 @@ Asbaharoon
 BetterWorldBetterPlace
 Charles-Chrismann
 HieuChayA4
-MinisterPP
 ThomasHambach
 anhpnv
 codemaster05330
@@ -12,12 +11,12 @@ ductnn
 duyhenryer
 ethanflower1903
 hieu-ht
-kazhuravlev
 kerashanog
 logivanhr
 mengaww2ya
 nbthanh98
 nganganth
+ntheanh201
 qmauvnt
 reedhhw
 royalacope
@@ -25,5 +24,6 @@ sycu8
 tainnsre
 thanhnbt
 tridungng
+trinhminhtriet
 tuananh
 tycloud97

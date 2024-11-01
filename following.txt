@@ -39,6 +39,7 @@ imjasonh
 jaxxstorm
 jkroepke
 jon-walton
+katanemo
 kazhuravlev
 kerashanog
 kflynn
